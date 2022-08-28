@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Command line workshop '22"
+  repo-url: https://github.com/mikesovic/MICRO8161
+  
+format:
+  html:
+    theme:
+      light: lumen
+      dark: darkly
+    css: styles.css
+    toc: true
