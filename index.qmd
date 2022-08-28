@@ -1,0 +1,21 @@
+---
+title: "Microbiology 8161"
+subtitle: "Getting Started With R For Microbiome Analysis"
+toc: false
+---
+
+<br>
+
+### Schedule
+
+| Session      | Topic                                                         | Instructor    | Time                |
+|-----------------|--------------------|------------------|------------------|
+| **Session 1** | 1. [Introduction to the Workshop](modules/01-intro.qmd)       | Mike / Jelmer | Wed 1:00 - 1:15 pm   |
+|           | 2. [The Ohio Supercomputer Center (OSC)](modules/02-osc.qmd)  | Mike          | Wed 1:15 - 2:00 pm   |
+|           | 3. [The VS Code Text Editor](modules/03-vscode.qmd)           | Jelmer        | Wed 2:00 - 2:15 pm   |
+|           | 4. [The Unix Shell (& FASTQ files)](modules/04-shell.qmd)     | Mike          | Wed 2:30 - 4:30 pm   |
+| **Session 2** | 5. [Variables, Globbing and Loops](modules/05-vars-loops.qmd) | Jelmer        | Thu 12:00 - 1:00 pm  |
+|           | 6. [Shell Scripting](modules/06-scripts.qmd)                  | Jelmer        | Thu 1:15 - 2:30 pm   |
+| **Session 3** | 7. [Using Software at OSC](modules/07-software.qmd)           | Jelmer        | Fri 1:00 - 1:45 pm   |
+|           | 8. [Compute Jobs with Slurm](modules/08-slurm.qmd)            | Jelmer        | Fri 1:45 - 3:00 pm   |
+|           | 9. [Batch Jobs in Practice](modules/09-examples.qmd)          | Mike / Jelmer | Fri 3:15 - 4:30 pm   |
